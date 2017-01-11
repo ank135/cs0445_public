@@ -1,3 +1,5 @@
+# Assignment 1
+
 For this assignment, you are to implement a basic List of String objects, backed by an array.  You should implement the attached interface (StringList).  I have attached a very basic JUnit test file to get you started.
 
 Grading:
